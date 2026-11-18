@@ -1,0 +1,7 @@
+depot_number;path_number;purpose;path_length;is_free;is_electrified
+1;1;Пассажирское движение;1250.50;true;true
+1;2;Пассажирское движение;1180.00;false;true
+1;3;Отстой;800.75;true;false
+2;1;Пассажирское движение;1400.00;true;true
+2;2;Грузовое движение;950.25;false;true
+2;3;Ремонтный тупик;600.00;true;false
